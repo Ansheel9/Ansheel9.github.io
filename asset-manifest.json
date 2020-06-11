@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.6beede8d.chunk.css",
-    "main.js": "/static/js/main.5e0be9b3.chunk.js",
-    "main.js.map": "/static/js/main.5e0be9b3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.44eaa4a9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.44eaa4a9.js.map",
-    "static/js/2.36a44179.chunk.js": "/static/js/2.36a44179.chunk.js",
-    "static/js/2.36a44179.chunk.js.map": "/static/js/2.36a44179.chunk.js.map",
+    "main.css": "/static/css/main.3dd3a116.chunk.css",
+    "main.js": "/static/js/main.7ab0cb4d.chunk.js",
+    "main.js.map": "/static/js/main.7ab0cb4d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f02206e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f02206e8.js.map",
+    "static/js/2.e67eeeae.chunk.js": "/static/js/2.e67eeeae.chunk.js",
+    "static/js/2.e67eeeae.chunk.js.map": "/static/js/2.e67eeeae.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f0db193053afbb79e9f944008b012e4a.js": "/precache-manifest.f0db193053afbb79e9f944008b012e4a.js",
+    "precache-manifest.17a7994511c6ff42233a4e4991855ed2.js": "/precache-manifest.17a7994511c6ff42233a4e4991855ed2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6beede8d.chunk.css.map": "/static/css/main.6beede8d.chunk.css.map",
-    "static/js/2.36a44179.chunk.js.LICENSE.txt": "/static/js/2.36a44179.chunk.js.LICENSE.txt",
+    "static/css/main.3dd3a116.chunk.css.map": "/static/css/main.3dd3a116.chunk.css.map",
+    "static/js/2.e67eeeae.chunk.js.LICENSE.txt": "/static/js/2.e67eeeae.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ciscologo.jpg": "/static/media/ciscologo.e4985b22.jpg",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/esslogo.jpg": "/static/media/esslogo.23546f05.jpg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/skill.svg": "/static/media/skill.34409398.svg"
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44eaa4a9.js",
-    "static/js/2.36a44179.chunk.js",
-    "static/css/main.6beede8d.chunk.css",
-    "static/js/main.5e0be9b3.chunk.js"
+    "static/js/runtime-main.f02206e8.js",
+    "static/js/2.e67eeeae.chunk.js",
+    "static/css/main.3dd3a116.chunk.css",
+    "static/js/main.7ab0cb4d.chunk.js"
   ]
 }
